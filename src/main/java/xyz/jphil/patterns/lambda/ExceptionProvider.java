@@ -4,7 +4,7 @@ import java.util.function.Consumer;
 
 /**
  *
- * @author Ivan Velikanova <ivan@jphil.xyz>
+ * @author Ivan Velikanova ivan@jphil.xyz
  */
 public class ExceptionProvider  implements Consumer<Exception> {
     public static ExceptionProvider NewExceptionProvider(){

@@ -1,5 +1,5 @@
 /*
- * Copyright 2017 Ivan Velikanova <ivan@jphil.xyz>.
+ * Copyright 2017 Ivan Velikanova ivan@jphil.xyz.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -19,7 +19,7 @@ import java.util.function.Consumer;
 
 /**
  *
- * @author Ivan Velikanova <ivan@jphil.xyz>
+ * @author Ivan Velikanova ivan@jphil.xyz
  */
 public class L {
     public static int parseIntifError(SupplierWithException<String> input, int valueOnError, final ExceptionHandler lm){

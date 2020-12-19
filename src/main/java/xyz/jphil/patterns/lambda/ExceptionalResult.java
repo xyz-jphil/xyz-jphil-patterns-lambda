@@ -4,7 +4,7 @@ import java.util.function.Consumer;
 
 /**
  *
- * @author Ivan Velikanova <ivan@jphil.xyz>
+ * @author Ivan Velikanova ivan@jphil.xyz
  */
 public class ExceptionalResult<R> {
     private final ExceptionProvider ep;
