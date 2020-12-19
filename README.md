@@ -1,0 +1,1 @@
+Some simple methods like ifError inspired from spreadsheets, parsers for int with a failur over value, and other lambda convinient functions 
